@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+#define ll                    long long int
+#define sc                    scanf
+#define pf                    printf 
+#define scin(x)               sc("%d",&(x))
+#define scin2(x,y)            sc("%d %d",&(x),&(y))
+#define  sq                   sqrt(n)
+#define pi                    3.1416
+#define db                    double 
+#define all(a)                (a.begin(),a.end())
+#define pb(a)                 push_back(a)
+// Name :Kawsar Hossain 
+//Batch :CSE 10 batch 
+//std ID:11808042
+//Institute :Cumilla University,Cumilla.
+using namespace std;
+int main()
+{
+int i,j,k,l,m,n,x,y,z;
+return 0;
+}
